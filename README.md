@@ -2,7 +2,8 @@
 
 A real-time trash detection system that classifies different types of waste materials using YOLO object detection.
 
-<img src="./Screenshot_2025-10-30_183112.png" width="600" alt="Detection Results">
+<img width="2880" height="1800" alt="Screenshot 2025-10-30 183112" src="https://github.com/user-attachments/assets/f63c90e2-cb7a-4e93-810a-4500f33bdfd7" />
+
 
 ## Project Overview
 
